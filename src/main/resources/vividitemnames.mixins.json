@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "github.poscard8.vividitemnames.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "mixins.vividitemnames.refmap.json",
+  "mixins": [
+    "ItemMixin",
+    "OptionsMixin",
+    "OptionsScreenMixin",
+    "RaidMixin"
+  ]
+}

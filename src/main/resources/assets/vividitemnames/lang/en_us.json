@@ -1,0 +1,14 @@
+{
+  "options.vividitemnames": "Item Name Options",
+  "options.common_items": "Common Items",
+  "options.uncommon_items": "Uncommon Items",
+  "options.rare_items": "Rare Items",
+  "options.epic_items": "Epic Items",
+  "options.item_color": "Color",
+  "options.item_bold": "Bold",
+  "options.item_italic": "Italic",
+  "options.item_underline": "Underline",
+  "options.item_strikethrough": "Strikethrough",
+  "options.item_obfuscated": "Obfuscated",
+  "options.item_reset": "Reset"
+}
